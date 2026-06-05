@@ -159,6 +159,10 @@ User-friendly error messages are displayed to improve the overall experience.
 ---
 
 ## Screenshots
+![Alt Text](https://github.com/Yashwanthkumar-dev/week4-weather-app/blob/2e468d286e36d0cbd50531fecd18180fe33b8e62/Screenshot%20from%202026-06-05%2022-13-36.png)
+![Alt Text](https://github.com/Yashwanthkumar-dev/week4-weather-app/blob/2e468d286e36d0cbd50531fecd18180fe33b8e62/Screenshot%20from%202026-06-05%2022-14-18.png)
+![Alt Text](https://github.com/Yashwanthkumar-dev/week4-weather-app/blob/2e468d286e36d0cbd50531fecd18180fe33b8e62/Screenshot%20from%202026-06-05%2022-15-30.png)
+![Alt Text](https://github.com/Yashwanthkumar-dev/week4-weather-app/blob/2e468d286e36d0cbd50531fecd18180fe33b8e62/Screenshot%20from%202026-06-05%2022-27-47.png)
 
 
 
