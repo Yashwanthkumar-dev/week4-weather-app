@@ -60,20 +60,8 @@ week4-weather-app/
 │── index.html
 │── css/
 │   ├── style.css
-│   ├── weather-icons.css
-│   └── responsive.css
 │── js/
-│   ├── app.js
-│   ├── weatherService.js
-│   ├── ui.js
-│   ├── storage.js
-│   └── config.js
-│── assets/
-│   ├── icons/
-│   └── images/
-│── README.md
-│── .env.example
-└── .gitignore
+│   ├── index.js
 ```
 
 ---
@@ -83,20 +71,13 @@ week4-weather-app/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/week4-weather-app.git
+https://github.com/Yashwanthkumar-dev/week4-weather-app.git
 ```
 
 ### Step 2: Open the Project
 
 Open the project folder in Visual Studio Code.
 
-### Step 3: Configure API Key
-
-Create a `.env` file and add your API key:
-
-```env
-API_KEY=YOUR_API_KEY
-```
 
 ### Step 4: Run the Application
 
@@ -108,23 +89,15 @@ Open `index.html` in your browser or deploy the project using GitHub Pages.
 
 ### OpenWeatherMap API
 
-This application uses the OpenWeatherMap API to fetch weather information.
+This application uses the weatherAPI to fetch weather information.
 
 ### Endpoints Used
 
 #### Current Weather
 
 ```text
-https://api.openweathermap.org/data/2.5/weather
+https://api.weatherapi.com/v1
 ```
-
-#### Weather Forecast
-
-```text
-https://api.openweathermap.org/data/2.5/forecast
-```
-
----
 
 ## Application Workflow
 
@@ -148,7 +121,7 @@ Weather Application Interface
   ↓
 JavaScript Logic
   ↓
-OpenWeatherMap API
+WeatherAPI
   ↓
 JSON Response
   ↓
